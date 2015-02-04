@@ -1,0 +1,38 @@
+.half-slide {
+  width: 45%;
+  overflow: hidden;
+  margin: 0 2.5%;
+  text-align: center;
+}
+
+.half-slide > img {
+  width: 100%;
+}
+
+.lfl {
+  float: left;
+}
+
+.rfl {
+  float: right;
+}
+
+.centered {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.normal-image > img {
+  width: 30%;
+}
+
+.clear {
+  clear: both;
+}
+
+.small {
+  font-size: 80%;
+}
